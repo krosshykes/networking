@@ -1,4 +1,4 @@
-# networking
+# Networking Projects
 ----
 - Echo Server
     - [go-v1](echo-server/go-ES/v1/main.go)
